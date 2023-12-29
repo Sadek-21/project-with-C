@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670233494 source:c:\c\ex2-td3\main.c
+	<stdio.h>
+	<stdlib.h>
+

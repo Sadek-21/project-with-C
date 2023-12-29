@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658444346 source:c:\c\tableau mettant tous zero\main.c
+	<stdio.h>
+	<stdlib.h>
+

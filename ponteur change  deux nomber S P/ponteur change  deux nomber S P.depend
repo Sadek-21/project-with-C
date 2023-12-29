@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660595039 source:c:\c\ponteur change  deux nomber s p\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659479532 source:c:\c\aficher les elements par order croissant\main.c
+	<stdio.h>
+	<stdlib.h>
+

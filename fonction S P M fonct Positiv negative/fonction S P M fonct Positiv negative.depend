@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660339476 source:c:\c\fonction s p m fonct positiv negative\main.c
+	<stdio.h>
+	<stdlib.h>
+

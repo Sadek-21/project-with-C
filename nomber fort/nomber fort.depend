@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669023036 source:c:\c\nomber fort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

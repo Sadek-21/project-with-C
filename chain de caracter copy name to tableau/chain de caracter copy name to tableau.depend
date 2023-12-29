@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660689828 source:c:\c\chain de caracter copy name to tableau\main.c
+	<stdio.h>
+	<stdlib.h>
+

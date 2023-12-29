@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660345651 source:c:\c\fonct ordr affich\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652791209 source:c:\c\exerc note somme moyen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

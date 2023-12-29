@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659913705 source:c:\c\fonction nomber premier\main.c
+	<stdio.h>
+	<stdlib.h>
+

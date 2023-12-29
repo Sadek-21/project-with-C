@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669982020 source:c:\c\logiciel de facturation de restaurant\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

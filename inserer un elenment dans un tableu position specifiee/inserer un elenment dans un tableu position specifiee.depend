@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658692590 source:c:\c\inserer un elenment dans un tableu position specifiee\main.c
+	<stdio.h>
+	<stdlib.h>
+

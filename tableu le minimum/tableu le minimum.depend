@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658597059 source:c:\c\tableu le minimum\main.c
+	<stdio.h>
+	<stdlib.h>
+

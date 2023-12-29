@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658598809 source:c:\c\tableu le maximum\main.c
+	<stdio.h>
+	<stdlib.h>
+

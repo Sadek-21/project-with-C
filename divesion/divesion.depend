@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652818545 source:c:\c\divesion\main.c
+	<stdio.h>
+	<stdlib.h>
+

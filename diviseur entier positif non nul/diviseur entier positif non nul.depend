@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657996914 source:c:\c\diviseur entier positif non nul\main.c
+	<stdio.h>
+	<stdlib.h>
+

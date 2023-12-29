@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657996017 source:c:\c\somme caree de n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

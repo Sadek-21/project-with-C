@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659646119 source:c:\c\fonction signe max min\main.c
+	<stdio.h>
+	<stdlib.h>
+

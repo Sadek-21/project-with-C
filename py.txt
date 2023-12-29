@@ -1,0 +1,375 @@
+#A  = float(input("Veuillez entrer la valeur de A :"))
+#B = float(input("Veuillez entrer la valeur de B :"))
+#if B!=0:
+ #   print("Le resultat est : ", A / B)
+#else:
+ #   print("Le division sur zero est un possible")
+
+
+
+#A  = int(input("Veuillez entrer la valeur de A :"))
+#B = int(input("Veuillez entrer la valeur de B :"))
+#max = A
+#if max < B :
+ #   max = B
+#print("Le maximum de A et B :",max)
+
+
+
+#print("Programme qui determine la nature d'un nomber :")
+#n = int(input("Veuillez entrer un nomber :"))
+#if n>0:
+ #   print("Ce nomber est positif")
+#elif n<0:
+ #   print("Ce nomber est negativf")
+#else:
+ #   print("Ce nomber et null")
+
+
+
+
+
+#print("Programme qui determiner letat de l'eau")
+#T = float(input("Veuillez sasir le temperature de l'eau"))
+#if T<0:
+ #   print("l'etat de  l'eau et GLACE ")
+#elif T > 0 and T<100 :
+ #   print("l'etat de  l'eau et LIQUIDE")
+#else:
+#    print("l'etat de  l'eau et Vapeur")
+
+
+
+
+#print("Programme quiafficher le nnome du jour ")
+#N = int(input("Veuillez saisir un nomber entr 1 et 7 :"))
+#if N == 1:
+ #   print("lundi")
+#elif N == 2:
+  #  print("Mardi")
+#elif N == 3:
+   # print("ercredi")
+#elif N == 4:
+  #  print("jeudi")
+#elif N == 5:
+ #   print("vendredi")
+#elif N == 6:
+ #   print("samedi")
+#elif N == 7:
+ #   print("dimanche")
+#else:
+    #print("le nomber ett incorect")
+
+
+
+
+#age = int(input("Veuillez sasir l'age de citoyen"))
+#print("Vous pouver voter"  if age >=18 else "Vous ne pouver pas voter")
+
+
+
+
+                        #for i in range(4):
+                             #  print("hello world")
+
+
+#print("Programme qui afficher le tableau de multiplication de 7")
+#for i in range(11):
+ #   M = 7 * i
+  #  print("7*",i,"=",M)
+
+
+
+
+#n=int(input("programme qui calculer la somme de n premier entier positif:"))
+#S = 0
+#for i in range(1,n+1):
+#    S = S + i
+#print("La somme de n premoer nomber:",S)
+
+
+
+
+#print("Programme qui aficher le tablaue de multiplication:")
+#for i in range(1,11):
+ #   for j in range(1,11):
+  #      M = i*j
+   #     print(i,"*",j, "=" ,M)
+
+
+
+#print("Programme qui aficher un rectangle d'etoiles:")
+#L = int(input("veuillez entrer le nomber de lines: " ))
+#C = int(input("Veuillez entrer le nomber de colonnes: "))
+#for i in range(L):
+ #   for j in range(C):
+  #      print("* ",end=" ")
+   # print(" ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#A = int(input("Veuillez sasir un nomber:"))
+#while A<1 or A>10:
+ ##   A = int(input("Veuillez sasir un nomber :"))
+#i = 0
+#while i <= 10:
+ #     M = A * i
+  #    print(A,'X',i,'=',M)
+   #   i = i+1
+
+
+
+
+#N=int(input("Veuillez sasir un nomber enter 10 et 20 :"))
+#while N<10 or N>20 :
+ #     if N<10 :
+  #        print("Le nomber et petit")
+   #   else:
+    #      print("Le nomber et plus grand")
+
+     # N = int(input("Veuillez sasir un nomber enter 10 et 20 :"))
+#print("Bravo!vous avez un nomber enter 10 et 20 14 ")
+
+
+
+
+
+
+
+
+
+#print("Programme qui vcalcule la somme de entier :")
+#N=int(input("Veuillez entrer un nomber:"))
+#while N<=1 :
+ #   N = int(input("Veuillez entrer un nomber:"))
+#S=0
+#i=1
+#while i<=N:
+ #   S=S+i
+  #  i = i+1
+#print("la somme des nomber et :",S)
+
+
+
+
+                            #Break
+
+
+#S =0
+#for i in range(1,9):
+ #   print("Enterz N",i," : ",end="")
+  #  N = int(input())
+   # if N<0:
+    #    break
+    #S = S + N
+#print("La somme esr :",S)
+
+
+
+
+                           #Continue
+
+#S =0
+#for i in range(1,9):
+ #   print("Enterz N",i," : ",end="")
+  #  N = int(input())
+   # if N<0:
+    #    continue
+    #S = S + N
+#print("La somme esr :",S)
+
+
+
+
+
+
+                            #les fonction
+
+#def somme (a,b):
+#    c=a+b
+# print("a+b=",c)
+#a=int(input("Veuillez entrer la valeur de a :"))
+#b=int(input("Veuillez entrer la valeur de b :"))
+#somme(a,b)
+
+
+
+#def somme (a,b):
+ #   c=a+b
+  #  return c
+#a=int(input("Veuillez entrer la valeur de a :"))
+#b=int(input("Veuillez entrer la valeur de b :"))
+#print("a+b=",somme(a,b))
+
+
+
+
+
+
+
+
+
+#def signe(a,b):
+ #   if a*b>0:
+  #      print("a et b et de meme signe.")
+   # else:
+    #    print("a et b n'est pas de meme signe ")
+#def minimum(a,b):
+ #   if a>b :
+  #      return b
+
+   # else:
+    #    return a
+
+
+#def maximum(a, b):
+ #   if a < b:
+  #      return b
+
+   # else:
+    #    return a
+#a=int(input("Veuillez entrer la valeur de a :"))
+#b=int(input("Veuillez entrer la valeur de b :"))
+#signe(a,b)
+#print("La valeur minimal est ",minimum(a,b))
+#c = maximum(a,b)
+#print("La valeur maximal est :",c)
+
+
+
+
+
+
+
+
+                     #  variable global
+
+#Y=4
+#def aficher():
+#    global Y
+#    Y=8
+#    print(Y)
+#aficher()
+#print(Y)
+
+
+#def f(x,y):
+ #   global a
+  #  a=45
+   # x,y=y,x
+    #b =17
+    #print(a,b,x,y)
+#a,b,x,y=3,15,3,4
+#f(9,81)
+#print(a,b,x,y)
+
+
+
+
+
+
+#a=1
+#def f():
+#    print(a)
+#def g():
+#    a=2
+#    print(a)
+#def h():
+#    global a
+#    a=3
+#    print(a)
+#print(a)
+#f()
+#print(a)
+#g()
+#print(a)
+#h()
+#print()
+
+
+
+
+
+
+#z=10
+#def f():
+#    global z
+#    z=3
+#def g(x,y):
+#    global z
+#    return x+y+z
+#f()
+#total=g(4,5)
+#print(total)
+
+
+
+
+
+#def soustraction(A,B):
+ #   C = A - B
+  #  print("A-B=",C)
+#A = float(input("Saisir la valeur de A:"))
+#B = float(input("Saisir la valeur de B:"))
+#soustraction( B = 5 , A = 10 )
+#soustraction(B,A)
+
+
+
+
+
+
+#def message (nom,titre):
+ #   print("Bonjour",titre,nom)
+#message("Ali","M.")
+#message("Mme","Amal")
+#message("Anas")
+
+
+
+                    #Arguments avec etiquttes(mot-cle)
+ #les arguments avec etiquettes sont lies aux appels de fonction
+   # lorsque nius applons des fonctions de cette maniere, l'ordre(position)
+     # des arguments peut etre modifie
+
+#def message(nom,titre):
+#    print("Bonjour",titre,nom)
+#message(titre="M.",nom="Ali")
+#message(nom="Amal",titre="Mme.")
+#message("Sara","Mlle.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
